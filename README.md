@@ -2,6 +2,12 @@ In the tradition of hypertext adaptations of Ludwig Wittgenstein's *Tractatus Lo
 
 The project was mainly prompted by my discovery of the HTML `<details>` disclosure element.
 
+Work in Progress. To do:
+* Add images
+* Add/fix formulas & tables
+* Add CSS to align `<details>` arrows better with paragraphs
+* Make English version
+
 Included files:
 * tractatus.txt — Plain text version of the German 1922 version of the Tractatus
 * generator.py — Script to generate the HTML page from the plain text Tractatus
